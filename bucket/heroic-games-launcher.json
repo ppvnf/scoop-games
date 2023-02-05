@@ -1,12 +1,12 @@
 {
-    "version": "2.6.1",
+    "version": "2.6.2",
     "description": "Unofficial native GUI reimplementation for GOG and Epic Games Launcher",
     "homepage": "https://heroicgameslauncher.com/",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.6.1/Heroic-2.6.1-Setup.exe#/dl.7z",
-            "hash": "sha512:b7408fe163986baca5003681bfbb0a664429850871f7a7b1a3cca2ba4d2b09ab5759e5016746196f5b385408bbbd274ebb6588a7d4c6a34e33f97445276902cc"
+            "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.6.2/Heroic-2.6.2-Setup.exe#/dl.7z",
+            "hash": "sha512:87956925d31d459bda7e5dfa8249b6cdfae67a0c57d7843f8edca13a403e945b66bb7a00df7c65e250e35072b36362957c7d4543a8bbcca9d815997e3ff66ba1"
         }
     },
     "extract_dir": "$PLUGINSDIR",
