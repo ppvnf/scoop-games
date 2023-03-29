@@ -1,19 +1,19 @@
 {
-    "version": "0.17",
+    "version": "0.18.1",
     "description": "Command-line tools for compiling and analyzing Quake maps",
     "homepage": "https://ericwa.github.io/ericw-tools/",
     "license": "GPL-3.0-or-later",
     "depends": "extras/vcredist2013",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ericwa/ericw-tools/releases/download/v0.17/ericw-tools-v0.17-win32.zip",
-            "hash": "c3c031a096f4b5de4790a7ecaae55596ffa92f3c337825f05b9629c3235378f5",
-            "extract_dir": "ericw-tools-v0.17-win32"
+            "url": "https://github.com/ericwa/ericw-tools/releases/download/v0.18.1/ericw-tools-v0.18.1-win32.zip",
+            "hash": "562aae414b914ffa8d3a208ca74d16ac4ca2b61031773227c7d4bdc8384b13ef",
+            "extract_dir": "ericw-tools-v0.18.1-win32"
         },
         "64bit": {
-            "url": "https://github.com/ericwa/ericw-tools/releases/download/v0.17/ericw-tools-v0.17-win64.zip",
-            "hash": "7a84586032e4217948db74e04d5bcb9a1dfdd45b7c933d2bc0321c7a3b4ad77f",
-            "extract_dir": "ericw-tools-v0.17-win64"
+            "url": "https://github.com/ericwa/ericw-tools/releases/download/v0.18.1/ericw-tools-v0.18.1-win64.zip",
+            "hash": "a0f39c6faeb29cd08b267880cdcebb310f9938fef4cbbff07d1f6843c36e9cd3",
+            "extract_dir": "ericw-tools-v0.18.1-win64"
         }
     },
     "bin": [
