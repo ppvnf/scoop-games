@@ -1,12 +1,12 @@
 {
-    "version": "3.13.0",
+    "version": "3.12.0",
     "description": "Real-time 3D strategy game",
     "homepage": "https://megaglest.org/",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/MegaGlest/megaglest-source/releases/download/3.13.0/MegaGlest-Installer-3.13.0_windows_32bit.exe#/dl.7z",
-            "hash": "84eade59226fe52f8349bfcffec1b71a4d45760671f59e4d7d25c1c991a9610d",
+            "url": "https://github.com/MegaGlest/megaglest-source/releases/download/3.12.0/MegaGlest-Installer-3.12.0_windows_32bit.exe#/dl.7z",
+            "hash": "2c8c1b5f16f6c751d8ed57c4c24553dc205a910b597c6b8a035582a0f6ff82ae",
             "bin": [
                 "megaglest.exe",
                 "megaglest_editor.exe",
@@ -24,8 +24,8 @@
             ]
         },
         "64bit": {
-            "url": "https://github.com/MegaGlest/megaglest-source/releases/download/3.13.0/MegaGlest-Installer-3.13.0_windows_64bit.exe#/dl.7z",
-            "hash": "d08d6248b1d9edadb5709d84eb39af61fbcd2fbb8edd649ccebe3e96541e3847",
+            "url": "https://github.com/MegaGlest/megaglest-source/releases/download/3.12.0/MegaGlest-Installer-3.12.0_windows_64bit.exe#/dl.7z",
+            "hash": "b70aa0f1e97e6f489f3bdd62e6f18cbc069a88217c04f89e783db4cdd0200850",
             "bin": [
                 [
                     "megaglestx64.exe",
