@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.2",
     "description": "Heavily modified version of the Quake III Arena engine, directly based on ioquake3 (November 2018)",
     "homepage": "https://clover.moe/spearmint/",
     "license": "https://github.com/zturtleman/spearmint/blob/master/COPYING.txt",
@@ -25,8 +25,8 @@
     "suggest": {
         "Quake 3 engines": "openarena"
     },
-    "url": "https://github.com/zturtleman/spearmint/releases/download/release-1.0.3/spearmint-1.0.3-windows.zip",
-    "hash": "d179d9a9d2213cc013e442df876090cc1f428dd9a98057a3065a8806c823872c",
+    "url": "https://github.com/zturtleman/spearmint/releases/download/release-1.0.2/spearmint-1.0.2-windows.zip",
+    "hash": "2114d589f86f7c63ad800bc6d67eeaf230cca7f79f37e5f1908a63a965ae2df0",
     "architecture": {
         "32bit": {
             "bin": [
@@ -97,7 +97,7 @@
             ]
         }
     },
-    "extract_dir": "spearmint-1.0.3-windows",
+    "extract_dir": "spearmint-1.0.2-windows",
     "installer": {
         "script": [
             "$persistFolders = @(",
